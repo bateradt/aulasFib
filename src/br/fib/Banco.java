@@ -10,6 +10,7 @@ public class Banco {
 	// public Banco(List<Conta> contas) {
 	// this.contas = contas;
 	// }
+	// teste
 
 	public List<Conta> getContas() {
 		return contas;
